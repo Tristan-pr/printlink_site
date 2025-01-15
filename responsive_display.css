@@ -578,7 +578,7 @@ button_check:hover {
 }
 
 @media (min-width: 1025px) {
-.h11 {
+.h6 {
   font-size: 1.5em;   
 }
 }
@@ -596,7 +596,7 @@ button_check:hover {
 }
 
 .p3 {
-  font-size: 30px;
+  font-size: 15px;
   font-family: Arial;
   color: white;
   text-align: center;
